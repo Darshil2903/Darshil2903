@@ -18,10 +18,10 @@ Computer Science student at the **University of British Columbia** (transferred 
 
 ### Tech I work with
 
-**Languages:** Python · C/C++ · Java · JavaScript · TypeScript · SQL · HTML/CSS
-**Frameworks and platforms:** React Native · Expo · React · Node.js · three.js · Supabase · PostgreSQL · Firebase
-**Hardware and design:** Arduino · Raspberry Pi · PCB prototyping · Autodesk Fusion 360 · Tinkercad · Blender
-**Tools:** Git · VS Code · Docker
+- **Languages:** Python · C/C++ · Java · JavaScript · TypeScript · SQL · HTML/CSS
+- **Frameworks and platforms:** React Native · Expo · React · Node.js · three.js · Supabase · PostgreSQL · Firebase
+- **Hardware and design:** Arduino · Raspberry Pi · PCB prototyping · Autodesk Fusion 360 · Tinkercad · Blender
+- **Tools:** Git · VS Code · Docker
 
 ### Get in touch
 
