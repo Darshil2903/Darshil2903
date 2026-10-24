@@ -11,8 +11,8 @@ Computer Science student at the **University of British Columbia** (transferred 
 
 | Project | What it is | Built with |
 |---|---|---|
-| 💳 [**SwipeWise**](https://github.com/Darshil2903/SwipeWise) | Credit-card optimizer with a deterministic rule engine, Row Level Security on every table and a fail-closed API cost guard. 53 automated tests. | React Native · Expo · Supabase · PostgreSQL · Edge Functions |
-| 🎵 [**OurVerse**](https://github.com/Darshil2903/OurVerse) | Interactive 3D landing page: Blender-rigged characters whose heads and eyes follow your cursor | three.js · JavaScript · Blender |
+| 💳 [**SwipeWise**](https://github.com/Darshil2903/SwipeWise) | Credit-card optimizer with a deterministic rule engine, Row Level Security on every table, Keychain-backed sessions, rate limiting, stale-while-revalidate caching and a fail-closed API cost guard. 53 automated tests. | React Native · Expo · Supabase · PostgreSQL · Edge Functions |
+| 🎵 [**OurVerse**](https://github.com/Darshil2903/OurVerse) | Private music app for two: invite-code pairing, Spotify and voice recordings locked down with Firebase Security Rules and App Check, and a 3D landing page whose characters follow your cursor | TypeScript · Vite · three.js · Firebase · Blender |
 | 🕹️ [**Arcade Machine**](https://github.com/Darshil2903/Raspberry-Pi-Arcade-Machine) | Two-player arcade cabinet that folds closed like furniture, with a custom control board | Raspberry Pi 5 · Fusion 360 · electronics |
 | 🚗 [**Robotic Car**](https://github.com/Darshil2903/Autonomous-Robotic-Car) | Five control modes (line following, autonomous, Bluetooth, IR remote, wired) on a hand-made Arduino-compatible board | Arduino · C/C++ · Tinkercad · 3D printing |
 
