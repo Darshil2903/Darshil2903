@@ -3,7 +3,7 @@
 Computer Science student at the **University of British Columbia** (transferred from Langara College). I like building things end to end, from a React Native app with a secured Postgres backend to a hand-soldered circuit board inside a cabinet I cut myself.
 
 - 💳 Building **[SwipeWise](https://github.com/Darshil2903/SwipeWise)**, an iPhone app that picks the best credit card you already own for each purchase
-- 🎵 Building **[OurVerse](https://github.com/Darshil2903/OurVerse)**, a private music space for two, with cursor-tracking 3D characters
+- 🎵 Building **[OurVerse](https://github.com/Darshil2903/OurVerse)**, a private music space where two people share favourite songs and their own voice singing them
 - 🔧 Off-screen: robotics, custom PCBs, Raspberry Pi and Arduino builds
 - 🎯 Open to **software engineering internships and co-op** roles in Vancouver or remote
 
@@ -12,7 +12,7 @@ Computer Science student at the **University of British Columbia** (transferred 
 | Project | What it is | Built with |
 |---|---|---|
 | 💳 [**SwipeWise**](https://github.com/Darshil2903/SwipeWise) | Credit-card optimizer with a deterministic rule engine, Row Level Security on every table, Keychain-backed sessions, rate limiting, stale-while-revalidate caching and a fail-closed API cost guard. 53 automated tests. | React Native · Expo · Supabase · PostgreSQL · Edge Functions |
-| 🎵 [**OurVerse**](https://github.com/Darshil2903/OurVerse) | Private music app for two: invite-code pairing, Spotify and voice recordings locked down with Firebase Security Rules and App Check, and a 3D landing page whose characters follow your cursor | TypeScript · Vite · three.js · Firebase · Blender |
+| 🎵 [**OurVerse**](https://github.com/Darshil2903/OurVerse) | Private music app for two: pair with an invite code, share favourite Spotify songs and your own voice singing them, kept private with Firebase Security Rules and App Check, plus a 3D landing page whose characters follow your cursor | TypeScript · Vite · three.js · Firebase · Blender |
 | 🕹️ [**Arcade Machine**](https://github.com/Darshil2903/Raspberry-Pi-Arcade-Machine) | Two-player arcade cabinet that folds closed like furniture, with a custom control board | Raspberry Pi 5 · Fusion 360 · electronics |
 | 🚗 [**Robotic Car**](https://github.com/Darshil2903/Autonomous-Robotic-Car) | Five control modes (line following, autonomous, Bluetooth, IR remote, wired) on a hand-made Arduino-compatible board | Arduino · C/C++ · Tinkercad · 3D printing |
 
